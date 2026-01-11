@@ -1,5 +1,6 @@
-# Переводчик с помощью искусственного интеллекта
+# AITranslater (Переводчик с помощью искусственного интеллекта)
 
+**Версия:** 0.3  
 * Автор: Mesteranas <anasformohammed@gmail.com>
 * Telegram-канал: [@tprogrammers](https://t.me/tprogrammers)
 * Дата первого выпуска 14 октября 2024.
